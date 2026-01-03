@@ -29,7 +29,7 @@ node_modules/
 jspm_packages/
 bower_components/
 web_modules/
-
+public/temp/
 # Logs
 logs
 *.log
